@@ -1,16 +1,17 @@
-# rti_assignment
+# rti assignment
 
-A new Flutter project.
+A flutter project with custom date picker.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## folder structure
 
-A few resources to get you started if this is your first Flutter project:
+lib/ui/custom_date_widget: contains custom date widget implementation.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+lib/ui/design_system: contains design and asset related classes.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+lib/ui/home_page: contains the home page design.
+
+
+## Architecture
+
+The app is simple enough that it doesn't require any architecture.
